@@ -1,11 +1,25 @@
 ---
-title: "luisfelipebr.github.io"
+title: "Luis Felipe Bortolatto da Cunha"
+image: profile.jpeg
+about:
+  template: solana
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:luisfelipebc@outlook.com
+    - icon: twitter 
+      text: "@Lwowis"
+      href: https://twitter.com/lwowis
+    - icon: github
+      text: luisfelipebr
+      href: https://github.com/luisfelipebr
+    
 ---
 
-This is a Quarto website.
+**WELCOME | BEM-VINDO | BIENVENIDO**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Luis. I'm a **consultant and researcher** working at the intersection between **geoinformation and planning**.
 
-```{r}
-1 + 1
-```
+On this website you will find a personal **[blog](blog.qmd)**, with my opinion and ideas on various topics, the **[projects](projects.qmd)** I am involved in and my **[curriculum vitae](cv.qmd)**.
+
+I work with **R and RStudio** on a daily basis, so expect to see it throughout the pages.

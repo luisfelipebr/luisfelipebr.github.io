@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "luisfelipebr.github.io",
+    "title": "Luis Felipe Bortolatto da Cunha",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Luis. I’m a consultant and researcher working at the intersection between geoinformation and planning.\nOn this website you will find a personal blog, with my opinion and ideas on various topics, the projects I am involved in and my curriculum vitae.\nI work with R and RStudio on a daily basis, so expect to see it throughout the pages."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "This is the contents of the about page for my blog."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "For now, you can check my LinkedIn, ORCID, Google Scholar and Lattes (none of them is updated)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects will be added to this page soon."
+  },
+  {
+    "objectID": "blog/2022-07-14-first-blog-post.html",
+    "href": "blog/2022-07-14-first-blog-post.html",
+    "title": "Title 1",
+    "section": "",
+    "text": "Text 2."
   }
 ]

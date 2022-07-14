@@ -3,19 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "luisfelipebr.github.io"
+  title: "Luis Cunha"
+  site-url: "https://luisfelipebr.github.io/"
+  page-footer: 
+    left: "© Luis Cunha, 2022.<br />Made with [Quarto](https://quarto.org/)."
+    right: 
+      - icon: envelope
+        href: mailto:luisfelipebc@outlook.com
+      - icon: twitter 
+        href: https://twitter.com/lwowis
+      - icon: github
+        href: https://github.com/luisfelipebr
   navbar:
-    background: primary
+    background: secondary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - blog.qmd
+      - projects.qmd
+      - cv.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: default
     css: styles.css
     toc: true
-
-
-
+    
