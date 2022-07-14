@@ -1,1 +1,1 @@
-Sitemap: https://luisfelipebr.github.io/sitemap.xml
+Sitemap: lucunha.com/sitemap.xml

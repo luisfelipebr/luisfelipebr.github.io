@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Luis Cunha"
-  site-url: "https://luisfelipebr.github.io/"
+  site-url: "lucunha.com"
   page-footer: 
     left: "© Luis Cunha, 2022.<br />Made with [Quarto](https://quarto.org/)."
     right: 
@@ -18,8 +18,8 @@ website:
     background: secondary
     search: true
     left:
-      - text: "Home"
-        file: index.qmd
+#      - text: "Home"
+#        file: index.qmd
       - blog.qmd
       - projects.qmd
       - cv.qmd
