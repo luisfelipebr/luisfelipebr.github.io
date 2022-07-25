@@ -20,6 +20,4 @@ about:
 
 My name is Luis. I'm a **consultant and researcher** working at the intersection between **geoinformation and planning**.
 
-On this website you will find a personal **[blog](blog.qmd)**, with my opinion and ideas on various topics, the **[projects](projects.qmd)** I am involved in and my **[curriculum vitae](cv.qmd)**.
-
-I work with **R and RStudio** on a daily basis, so expect to see it throughout the pages.
+On this website you will find a personal **[blog](blog.qmd)**, with my opinion and ideas on various topics.

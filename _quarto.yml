@@ -21,8 +21,8 @@ website:
 #      - text: "Home"
 #        file: index.qmd
       - blog.qmd
-      - projects.qmd
-      - cv.qmd
+#      - projects.qmd
+#      - cv.qmd
 
 format:
   html:
